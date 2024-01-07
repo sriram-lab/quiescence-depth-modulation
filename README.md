@@ -1,8 +1,9 @@
-Image
+<img src="https://raw.githubusercontent.com/sriram-lab/quiescence-depth-modulation/main/images/header_image.tiff" alt="header image" width= "600" style="text-align: center"/>
+
 
 ## Leveraging Metabolic Modeling and Machine Learning to Uncover Modulators of Quiescence Depth
 
-**License**
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 #### Description
 
@@ -23,5 +24,5 @@ R (developed with version 4.3.0)
 To download a local version of this repository, the following command can be used:
 
 ```         
-git clone 
+git clone https://github.com/sriram-lab/quiescence-depth-modulation.git
 ```
