@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sriram-lab/quiescence-depth-modulation/main/images/header_image.tiff" alt="header image" width= "500" style="text-align: center"/>
+<img src="https://raw.githubusercontent.com/sriram-lab/quiescence-depth-modulation/main/images/header_image.tiff" alt="header image" width= "400" style="text-align: center"/>
 
 ## Leveraging Metabolic Modeling and Machine Learning to Uncover Modulators of Quiescence Depth
 
