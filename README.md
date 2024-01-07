@@ -4,11 +4,11 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-#### Description
+### Description
 
 This repository contains code used to generate results associated with the following manuscript: *Leveraging Metabolic Modeling and Machine Learning to Uncover Modulators of Quiescence Depth*.
 
-#### Dependencies
+### Dependencies
 
 MATLAB (developed with version R2022A and R2022B)
 
@@ -18,7 +18,7 @@ COBRA Toolbox (developed with v3.0)
 
 R (developed with version 4.3.0)
 
-#### Installation
+### Installation
 
 To download a local version of this repository, use the following command:
 
