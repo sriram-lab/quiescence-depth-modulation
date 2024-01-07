@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/sriram-lab/quiescence-depth-modulation/main/images/header_image.tiff" alt="header image" width= "600" style="text-align: center"/>
-
+<img src="https://raw.githubusercontent.com/sriram-lab/quiescence-depth-modulation/main/images/header_image.tiff" alt="header image" width= "500" style="text-align: center"/>
 
 ## Leveraging Metabolic Modeling and Machine Learning to Uncover Modulators of Quiescence Depth
 
@@ -9,7 +8,7 @@
 
 This repository contains code used to generate results associated with the following manuscript: *Leveraging Metabolic Modeling and Machine Learning to Uncover Modulators of Quiescence Depth*.
 
-**Dependencies**
+#### Dependencies
 
 MATLAB (developed with version R2022A and R2022B)
 
@@ -19,9 +18,9 @@ COBRA Toolbox (developed with v3.0)
 
 R (developed with version 4.3.0)
 
-#### **Installation**
+#### Installation
 
-To download a local version of this repository, the following command can be used:
+To download a local version of this repository, use the following command:
 
 ```         
 git clone https://github.com/sriram-lab/quiescence-depth-modulation.git
