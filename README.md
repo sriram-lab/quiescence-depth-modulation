@@ -6,7 +6,9 @@
 
 ### Description
 
-This repository contains code used to generate results associated with the following manuscript: *Leveraging Metabolic Modeling and Machine Learning to Uncover Modulators of Quiescence Depth*.
+This repository contains code used to generate results associated with the following manuscript: 
+
+Eames, A., & Chandrasekaran, S. (2024). Leveraging metabolic modeling and machine learning to uncover modulators of quiescence depth. PNAS Nexus, pgae013. https://doi.org/10.1093/pnasnexus/pgae013
 
 ### Dependencies
 
